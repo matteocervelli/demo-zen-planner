@@ -13,9 +13,10 @@ Planner Locale e un planner settimanale personale che gira solo in locale sul PC
 
 ## Installazione
 
-1. Scarica o estrai la cartella del progetto.
-2. Apri un terminale nella cartella.
-3. Installa le dipendenze:
+1. Scarica la cartella del progetto, dal pulsante verde Code -> Download ZIP
+2. Estrai il file aggiornato in una cartella di Windows.
+3. Apri un terminale nella cartella (Cerca 'cmd.exe' nella barra di ricerca di Windows, trova l'indirizzo in alto della cartealla e fai 'cd Indirizzo\della\Cartella')
+5. Installa le dipendenze:
 
 ```powershell
 npm install
